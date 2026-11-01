@@ -1,0 +1,3 @@
+PASS: Android ARM64 I420 send, video receive, connection count, stop/restart
+
+PASS: Camera2 UI start/stop, no Android runtime crash

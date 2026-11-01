@@ -1,0 +1,3 @@
+-keep class com.sun.jna.** { *; }
+-keep class it.calciocamera.NdiSender$* { *; }
+-dontwarn java.awt.**

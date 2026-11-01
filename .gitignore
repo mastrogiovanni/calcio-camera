@@ -1,0 +1,11 @@
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+app/src/main/jniLibs/**/*.so
+vendor/
+.DS_Store
+__pycache__/
+*.pyc
+dist/
